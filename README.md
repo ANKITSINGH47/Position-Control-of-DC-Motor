@@ -1,2 +1,1 @@
-# PID-CONTROL-OF-A-LINE-FOLLOWING-ROBOT
-Design and implement a PID controller for the Spark V robot to make it follow a continuous track (papers with printed sample lines will be provided) on the ground, using the IR sensors provided on the robot for this purpose.
+To Design and implement an embedded (PID) feedback controller using Arduino Mega, which uses the motor driver IC (L293D) to drive the DC motor.
